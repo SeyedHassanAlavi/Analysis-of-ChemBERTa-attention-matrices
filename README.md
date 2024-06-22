@@ -6,8 +6,6 @@ We have also presented an innovative method that can produce one or more more op
 
 Results of attention analysis on number tokens:
 ![numbers (1)](https://github.com/SeyedHassanAlavi/Analysis-of-ChemBERTa-attention-matrices/assets/44578859/ec183664-62c5-4c16-9639-a238fe8e6b81)
-examples:
-![AttendToDigitsExample](https://github.com/SeyedHassanAlavi/Analysis-of-ChemBERTa-attention-matrices/assets/44578859/bb6b7a76-797f-41ef-9a0a-4b1266452eb3)
 
 SMILES Optimization example:
 ![OptimizationExample](https://github.com/SeyedHassanAlavi/Analysis-of-ChemBERTa-attention-matrices/assets/44578859/c178f978-88f8-4cea-bd22-fceb79244aef)
